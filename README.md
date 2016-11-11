@@ -53,6 +53,14 @@
 ## 前端 CSS实现的loading  Loaders.css
 [https://connoratherton.com/loaders](https://connoratherton.com/loaders)
 
+## Simple tooltips made of pure CSS
+#### Balloon.css lets you add tooltips to elements without JavaScript and in just a few lines of CSS.
+[http://kazzkiq.github.io/balloon.css/](http://kazzkiq.github.io/balloon.css/)
+
+## Hover.css 
+#### A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+[http://ianlunn.github.io/Hover/](http://ianlunn.github.io/Hover/)
+
 ## Git教程
 [http://backlogtool.com/git-guide/cn/intro/intro1_1.html](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)
 
